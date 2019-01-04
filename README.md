@@ -9,4 +9,4 @@ Here are some of my best hits:
 [A Reflection on Calvin and Hobbes](https://techcrunch.com/)
 
 ## Projects
-[FitnessTracker] (https://github.com/Genuinely/FitnessTracker/blob/master/README.md) is a calorie and running tracker run off the Google Maps API. Can be tied to physical device like an Arduino to become similar to a jawbone in fashion.
+[FitnessTracker](https://github.com/Genuinely/FitnessTracker/blob/master/README.md) is a calorie and running tracker run off the Google Maps API. Can be tied to physical device like an Arduino to become similar to a jawbone in fashion.
