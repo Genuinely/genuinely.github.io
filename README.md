@@ -6,4 +6,4 @@ I use Github in place of blogspot because changes are easier to track and becaus
 
 ## Best Hits
 Here are some of my best hits:
-(A Reflection of Calvin and Hobbes)[https://techcrunch.com/]
+[A Reflection on Calvin and Hobbes](https://techcrunch.com/)
