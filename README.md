@@ -1,7 +1,7 @@
-Hi, my name is Neil! I am a student at the University of Rochester, studying computer science. 
+Hi, I'm Neil. 
 
 ## Projects
-[GetFit](https://github.com/Genuinely/getfit) is a calorie and running tracker run off the Google Maps API. Can be tied to physical device like an Arduino to become similar to a jawbone in fashion.
+[GetFit](https://github.com/Genuinely/getfit) is a calorie and running tracker run off the Google Maps API. 
 
 [RipplesMeditation](https://github.com/Genuinely/Ripple) is a meditation app targeted towards high schoolers. 
 
