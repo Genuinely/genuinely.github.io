@@ -3,7 +3,7 @@ I am _not_ the musician Neil Young, unfortunately. Go [here](https://neilyoungar
 
 * Me
     * [Email me](mailto:neil.y.yeung@gmail.com)
-    * [Resume](resume/nyeungresumepspring2021)
+    * [Resume](https://github.com/Genuinely/genuinely.github.io/blob/master/resume/nyeungresumespring2021.pdf)
     * [LinkedIn](https://www.linkedin.com/in/neil-yeung-1b824b13b/)
     * [GitHub](https://github.com/Genuinely)
     * [Google Scholar](https://scholar.google.com/citations?user=zJi20m4AAAAJ)
