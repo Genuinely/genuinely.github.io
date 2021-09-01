@@ -3,7 +3,7 @@ I am _not_ the musician Neil Young, unfortunately. Go [here](https://neilyoungar
 
 * Me
     * [Email me](mailto:neil.y.yeung@gmail.com)
-    * [Resume]()
+    * [Resume](resume/nyeungresumepspring2021)
     * [LinkedIn](https://www.linkedin.com/in/neil-yeung-1b824b13b/)
     * [GitHub](https://github.com/Genuinely)
     * [Google Scholar](https://scholar.google.com/citations?user=zJi20m4AAAAJ)
@@ -33,4 +33,4 @@ I am _not_ the musician Neil Young, unfortunately. Go [here](https://neilyoungar
     * [**Ripples Meditation**](https://github.com/Genuinely/Ripple)
         * A meditation app targeted towards high schoolers. 
 
-This website uses the Jekyll theme, [no-style-please](https://github.com/riggraz/no-style-please). It might not look pretty, but it sure loads fast.
+This website uses the Jekyll theme, [no-style-please](https://github.com/riggraz/no-style-please). It might not look pretty, but it sure loads fast, and that's pretty great.
