@@ -1,4 +1,6 @@
-## Image here
+![Profile Image]
+(/docs/assets/images/profile.png)
+
 Hi, I'm Neil Yeung! I am _not_ the musician Neil Young, unfortunately. Go [here](https://neilyoungarchives.com/) if you're looking for him; I won't be mad.
 
 I'm interesting in scaling large systems—machine learning related or otherwise. I like working on stuff at the edge of theory (research) and practice (engineering). 
