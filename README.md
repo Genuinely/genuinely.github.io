@@ -11,8 +11,9 @@ I am _not_ world-famous musician Neil Young, unfortunately. Go [here](https://ne
    * [GitHub](https://github.com/Genuinely)
    * [Google Scholar](https://scholar.google.com/citations?user=zJi20m4AAAAJ) 
 * Education 
-    * B.S. in Computer Science @ the University of Rochester (grad. May 2023)
-    * Minors in Math and Philosophy
+  * University of Rochester (grad. May 2023)
+    * B.S. in Computer Science
+    * Minors in Mathematics and Philosophy
 * Work
     * Data Engineering @ Angelo Gordon (Summer 2022)
     * ML SWE intern @ Intel (Summer 2021 - Present)
