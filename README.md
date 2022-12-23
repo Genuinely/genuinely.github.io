@@ -19,4 +19,4 @@ I am _not_ world-famous musician Neil Young, unfortunately. Go [here](https://ne
     * ML SWE intern @ Intel (Summer 2021 - Present)
     * SWE intern @ Intel (Summer 2020)
 * Selected Projects
- * [Fluent.ai](https://twitter.com/mgiar2015/status/1577798235573436416): A tool for improving english comprehension with GPT-3 generated stories and quizzes + images generated with stable diffusion
+  * [Fluent.ai](https://twitter.com/mgiar2015/status/1577798235573436416): A tool for improving english comprehension with GPT-3 generated stories and quizzes + images generated with stable diffusion
