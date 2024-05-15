@@ -11,7 +11,7 @@ I am _not_ world-famous musician Neil Young, unfortunately. Go [here](https://ne
    * [GitHub](https://github.com/Genuinely)
    * [Google Scholar](https://scholar.google.com/citations?user=zJi20m4AAAAJ) 
 * Education
-  * Cornell University (expected 2024)
+  * Cornell University (May 2024)
     * Master's in Computer Science
   * University of Rochester (2019 - 2023)
     * Bachelor of Science in Computer Science
